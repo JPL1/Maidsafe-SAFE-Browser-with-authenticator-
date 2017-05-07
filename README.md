@@ -5,3 +5,5 @@ SAFE browser with authenticator plugin, built according to the instructions here
 https://github.com/maidsafe/safe_browser/tree/dev#development
 
 Uses mock routing - i.e. for developers only, does not connect to the live network
+
+Note: does not seem to work on Fedora
